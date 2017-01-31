@@ -1,0 +1,7 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix} NU Educational License - 2017
+<#if licenseLast??>
+${licenseLast}
+</#if>
